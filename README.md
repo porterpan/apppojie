@@ -11,6 +11,12 @@ apppojieios
 itms-services://?action=download-manifest&amp;url=https://github.com/porterpan/apppojie/blob/main/tiktokjk1.plist
 ```
 
+或者
+
+```bash
+itms-services://?action=download-manifest&amp;url=https://github.com/porterpan/apppojie/blob/main/tiktokjk24.plist
+```
+
 参考视屏：
 
 [参考的youtube视频1](https://youtu.be/vfeCQ98uhJI)，或者
