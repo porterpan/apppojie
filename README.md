@@ -14,7 +14,7 @@ itms-services://?action=download-manifest&amp;url=https://github.com/porterpan/a
 或者
 
 ```bash
-itms-services://?action=download-manifest&amp;url=https://github.com/porterpan/apppojie/blob/main/tiktokjk24.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/porterpan/apppojie/main/tiktokjk24.plist
 ```
 
 参考视屏：
